@@ -1,0 +1,36 @@
+{
+  "created": 1451822296000,
+  "duration": 10800000,
+  "id": "227799340",
+  "name": "April Meetup",
+  "status": "past",
+  "time": 1460568600000,
+  "updated": 1462825718000,
+  "utc_offset": 3600000,
+  "waitlist_count": 0,
+  "yes_rsvp_count": 33,
+  "venue": {
+    "id": 24159763,
+    "name": "JH",
+    "lat": 52.95165252685547,
+    "lon": -1.1426550149917603,
+    "repinned": false,
+    "address_1": "34 Stoney Street, Nottingham, NG1 1NB",
+    "city": "Nottingham",
+    "country": "gb",
+    "localized_country_name": "United Kingdom"
+  },
+  "group": {
+    "created": 1451821401000,
+    "name": "NottsJS",
+    "id": 19268350,
+    "join_mode": "open",
+    "lat": 52.970001220703125,
+    "lon": -1.1799999475479126,
+    "urlname": "NottsJS",
+    "who": "Members"
+  },
+  "link": "https://www.meetup.com/NottsJS/events/227799340/",
+  "description": "<p>Following the success of the first NottsJS, where we kicked off with a <a href=\"http://nodeschool.io\">nodeschool</a>, we’re back, and very excited to announce that we’re running another <a href=\"http://nodeschool.io\">nodeschool</a>.</p> <p><br/>This workshop themed event aims to give you hands-on experience with new technologies and help you take home new skills so don’t forget to bring your laptop!</p> <p><br/>Don’t panic! If you're new to coding and have never written a line of code before, that’s OK! You will be made to feel welcome as we cater for all skill levels and we will be delighted to have you onboard! If you’re a seasoned pro, let us know! We need help with mentoring.</p> <p><br/>We are really excited to welcome our guest host <a href=\"https://github.com/piccoloaiutante\">Michele Capra</a>, who will be joining us from Italy to share his knowledge and expertise on <a href=\"http://senecajs.org/\">Seneca</a>. He's a Software Engineer with a passion for clean code and as a contributor to Node.js really understands the language.</p> <p>Michele is the author of the \"<a href=\"https://github.com/senecajs/seneca-in-practice\">Seneca in Practice</a>\", the workshop we will be presenting.</p> <p>Afterwards we go round the corner to the <a href=\"http://www.castlerockbrewery.co.uk/pubs/keans-head/\">Keans Head</a> for more JavaScript socialising.</p> <p>Want to know more about our speaker? Visit his website at</p> <p><a href=\"http://about.me/mik\"><a href=\"http://about.me/mik\" class=\"linkified\">http://about.me/mik</a></a></p> <p>Ask questions or to talk to our friendly community at:</p> <p><br/><a href=\"http://about.me/mik\"><a href=\"https://gitter.im/nottsjs/discuss\" class=\"linkified\">https://gitter.im/nottsjs/discuss</a><br/></a></p> ",
+  "visibility": "public"
+}

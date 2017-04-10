@@ -1,0 +1,15 @@
+<div class="card-panel talk">
+  <h3 class="header light">{{event.name}}</h3>
+  <h6 class="light">{{event.time}}</h6>
+
+  <a class="btn waves-effect waves-light yellow black-text top-button" href="{{event.link}}">RSVP on Meetup<i class="material-icons left">reply</i></a>
+  <a class="btn waves-effect waves-light yellow black-text top-button"
+     href="{{event.calendar}}">Add to Google Calendar<i class="material-icons left">date_range</i></a>
+
+  {{{event.description}}}
+
+  {{#if event._meta.speaker}}
+    {{>profile profile=event._meta.speaker}}
+  {{/if}}
+
+</div>

@@ -1,0 +1,35 @@
+{
+  "created": 1483369544000,
+  "id": "236607131",
+  "name": "January 2017 Meetup",
+  "status": "past",
+  "time": 1484073000000,
+  "updated": 1484114933000,
+  "utc_offset": 0,
+  "waitlist_count": 0,
+  "yes_rsvp_count": 19,
+  "venue": {
+    "id": 24159763,
+    "name": "JH",
+    "lat": 52.95165252685547,
+    "lon": -1.1426550149917603,
+    "repinned": false,
+    "address_1": "34 Stoney Street, Nottingham, NG1 1NB",
+    "city": "Nottingham",
+    "country": "gb",
+    "localized_country_name": "United Kingdom"
+  },
+  "group": {
+    "created": 1451821401000,
+    "name": "NottsJS",
+    "id": 19268350,
+    "join_mode": "open",
+    "lat": 52.970001220703125,
+    "lon": -1.1799999475479126,
+    "urlname": "NottsJS",
+    "who": "Members"
+  },
+  "link": "https://www.meetup.com/NottsJS/events/236607131/",
+  "description": "<p><b>Talks</b></p> <p><a href=\"https://github.com/nottsjs/speakers/issues/27\">Elm</a><br/><i>by <a href=\"https://github.com/willnwhite\">Will White</a></i></p> <p>Elm is a domain-specific, purely functional programming language used for declaratively creating client-side web apps which compile to JavaScript.</p> <p>In this talk you'll be shown The Elm Architecture, a nestable pattern for building applications, and Elm's full type inference system that helps prevent users from running into errors.</p> <p>We'll look at how Elm handles HTTP requests and websockets, how it handles uncertainty, the use of partial function application for reusable views, interaction with JS libraries, and how data immutability gives you undo/redo for only a few lines of code.</p> <p><br/><b>After</b> </p> <p>Afterwards we'll head around the corner to <a href=\"http://www.castlerockbrewery.co.uk/pubs/keans-head/\">Keans Head</a> for more JavaScript socialising.</p> <p><b>Contact</b></p> <p>Ask questions or to talk to our friendly community on <a href=\"https://gitter.im/nottsjs/discuss\">Gitter</a>!</p> <p>Find us on twitter: <a href=\"http://twitter.com/nottsjs\">@nottsjs</a></p> ",
+  "visibility": "public"
+}

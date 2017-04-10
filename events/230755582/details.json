@@ -1,0 +1,36 @@
+{
+  "created": 1461974908000,
+  "id": "230755582",
+  "name": "July meetup",
+  "status": "past",
+  "time": 1468344600000,
+  "updated": 1469010203000,
+  "utc_offset": 3600000,
+  "waitlist_count": 0,
+  "yes_rsvp_count": 35,
+  "venue": {
+    "id": 24159763,
+    "name": "JH",
+    "lat": 52.95165252685547,
+    "lon": -1.1426550149917603,
+    "repinned": false,
+    "address_1": "34 Stoney Street, Nottingham, NG1 1NB",
+    "city": "Nottingham",
+    "country": "gb",
+    "localized_country_name": "United Kingdom"
+  },
+  "group": {
+    "created": 1451821401000,
+    "name": "NottsJS",
+    "id": 19268350,
+    "join_mode": "open",
+    "lat": 52.970001220703125,
+    "lon": -1.1799999475479126,
+    "urlname": "NottsJS",
+    "who": "Members"
+  },
+  "link": "https://www.meetup.com/NottsJS/events/230755582/",
+  "manual_attendance_count": 0,
+  "description": "<p><b>Playing with WebRTC</b></p> <p><br/>WebRTC is useful tech... but who cares about useful? Let's do something fun!</p> <p>Let's take a look at WebRTC. It will be weird. Hopefully it will be fun. You might even learn something.</p> <p><a href=\"https://twitter.com/mr_goodwin\">Mark Goodwin</a> is a security expert for Mozilla</p> <p><br/><b>Bring</b> a laptop, we will have a hacking session.</p> <p><br/><b>After</b></p> <p>Afterwards we go round the corner to the <a href=\"http://www.castlerockbrewery.co.uk/pubs/keans-head/\">Keans Head</a> for more JavaScript socialising.</p> <p><b>Contact</b></p> <p>Ask questions or to talk to our friendly community at:</p> <p><a href=\"http://about.me/mik\"><a href=\"https://gitter.im/nottsjs/discuss\" class=\"linkified\">https://gitter.im/nottsjs/discuss</a><br/></a></p> <p>Find us on twitter: </p> <p><a href=\"http://twitter.com/nottsjs\">@nottsjs</a></p> ",
+  "visibility": "public"
+}

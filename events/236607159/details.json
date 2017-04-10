@@ -1,0 +1,36 @@
+{
+  "created": 1483369626000,
+  "duration": 10800000,
+  "id": "236607159",
+  "name": "April 2017 - Firefox Containers, isolating the web whilst hacking web extensions",
+  "status": "upcoming",
+  "time": 1491931800000,
+  "updated": 1491782203000,
+  "utc_offset": 3600000,
+  "waitlist_count": 0,
+  "yes_rsvp_count": 23,
+  "venue": {
+    "id": 24159763,
+    "name": "JH",
+    "lat": 52.95165252685547,
+    "lon": -1.1426550149917603,
+    "repinned": false,
+    "address_1": "34 Stoney Street, Nottingham, NG1 1NB",
+    "city": "Nottingham",
+    "country": "gb",
+    "localized_country_name": "United Kingdom"
+  },
+  "group": {
+    "created": 1451821401000,
+    "name": "NottsJS",
+    "id": 19268350,
+    "join_mode": "open",
+    "lat": 52.970001220703125,
+    "lon": -1.1799999475479126,
+    "urlname": "NottsJS",
+    "who": "Members"
+  },
+  "link": "https://www.meetup.com/NottsJS/events/236607159/",
+  "description": "<p>Presenting Jonathan Kingston with his talk and workshop: \"<i>Firefox Containers, isolating the web whilst hacking web extensions</i>\".</p> <p><b>Bring your laptops with a copy of <a href=\"https://www.mozilla.org/en-US/firefox/nightly/all/\">Firefox Nightly</a> installed as we will hack away at building your own extensions using bleeding edge features.</b></p> <p>Firefox Containers tabs are an experimental platform feature for tab management and isolating browsing to solve security and privacy issues.</p> <p><img src=\"https://secure.meetupstatic.com/photos/event/4/7/d/3/600_459858387.jpeg\" /></p> <p>With the recent launch of <a href=\"https://testpilot.firefox.com/experiments/containers\">containers to test pilot</a>, I'm going to walk through how they are built. Web Extensions are the new cross browser way of adding features to the browser built entirely from JavaScript and other web technologies. New web extension features were added to Firefox for building our containers experiment that you can use today.</p> <p><br/>I will cover the basics of building extensions so we can have half the evening on hacking and making extensions.</p> <p>Image credit: <a href=\"https://twitter.com/Cejaeger\">Carolyn Jaeger</a></p> ",
+  "visibility": "public"
+}

@@ -1,0 +1,37 @@
+{
+  "created": 1473268774000,
+  "duration": 9000000,
+  "id": "233944144",
+  "name": "October meetup",
+  "status": "past",
+  "time": 1476207000000,
+  "updated": 1476217494000,
+  "utc_offset": 3600000,
+  "waitlist_count": 0,
+  "yes_rsvp_count": 25,
+  "venue": {
+    "id": 24159763,
+    "name": "JH",
+    "lat": 52.95165252685547,
+    "lon": -1.1426550149917603,
+    "repinned": false,
+    "address_1": "34 Stoney Street, Nottingham, NG1 1NB",
+    "city": "Nottingham",
+    "country": "gb",
+    "localized_country_name": "United Kingdom"
+  },
+  "group": {
+    "created": 1451821401000,
+    "name": "NottsJS",
+    "id": 19268350,
+    "join_mode": "open",
+    "lat": 52.970001220703125,
+    "lon": -1.1799999475479126,
+    "urlname": "NottsJS",
+    "who": "Members"
+  },
+  "link": "https://www.meetup.com/NottsJS/events/233944144/",
+  "description": "<p><b>Talks</b></p> <p><a href=\"https://github.com/nottsjs/speakers/issues/25\">Exploring Progressive Web Apps</a><br/><i>by <a href=\"https://github.com/DanIanShea\">Dan Shea</a></i></p> <p>Web apps can be pretty cool, but we could be making them even cooler. Browsers are levelling up by adding functionality to enable a user experience akin to using a native mobile application.</p> <p>Enter the new buzz-phrase of the moment… Progressive Web Apps!</p> <p>This talk aims to share knowledge gained from Dan's time at FullStack 2016 conference, and the lessons learned from implementing the features into real web applications. The goal is to provide more than just a high level overview; you should be able to walk away confident that you can implement these features into your own web apps straight away.</p> <p>You'll find out why you should care, what's available, see a demo and see what features are offered in browsers.</p> <p><br/><b>After</b></p> <p><br/>Afterwards we'll head around the corner to <a href=\"http://www.castlerockbrewery.co.uk/pubs/keans-head/\">Keans Head</a> for more JavaScript socialising.</p> <p><b>Contact</b></p> <p>Ask questions or to talk to our friendly community on <a href=\"https://gitter.im/nottsjs/discuss\">Gitter</a>!</p> <p>Find us on twitter: <a href=\"http://twitter.com/nottsjs\">@nottsjs</a></p> ",
+  "how_to_find_us": "Down the road from Annie's Burger Shack",
+  "visibility": "public"
+}

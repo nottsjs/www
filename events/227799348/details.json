@@ -1,0 +1,37 @@
+{
+  "created": 1451822363000,
+  "duration": 10800000,
+  "id": "227799348",
+  "name": "June Meetup - Command Unity",
+  "status": "past",
+  "time": 1465925400000,
+  "updated": 1465937737000,
+  "utc_offset": 3600000,
+  "waitlist_count": 0,
+  "yes_rsvp_count": 23,
+  "venue": {
+    "id": 24159763,
+    "name": "JH",
+    "lat": 52.95165252685547,
+    "lon": -1.1426550149917603,
+    "repinned": false,
+    "address_1": "34 Stoney Street, Nottingham, NG1 1NB",
+    "city": "Nottingham",
+    "country": "gb",
+    "localized_country_name": "United Kingdom"
+  },
+  "group": {
+    "created": 1451821401000,
+    "name": "NottsJS",
+    "id": 19268350,
+    "join_mode": "open",
+    "lat": 52.970001220703125,
+    "lon": -1.1799999475479126,
+    "urlname": "NottsJS",
+    "who": "Members"
+  },
+  "link": "https://www.meetup.com/NottsJS/events/227799348/",
+  "description": "<p>Join us, as father and son attempt to rule the universe.</p> <p>Leif Kemp will be talking about using JavaScript in Unity, and be giving a live coding demo where he builds a world you can walk through and shows you how to interact with it through JavaScript.</p> <p>Chris Kemp will be talking about applications being more than just CRUD operations, and what the wider impact to your business is.  Also covering some basic concepts such as CQS, CQRS &amp; Event Sourcing with an example in Redux.</p> ",
+  "how_to_find_us": "Next door to St. Mary's Church in Nottingham",
+  "visibility": "public"
+}

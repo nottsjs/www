@@ -1,0 +1,37 @@
+{
+  "created": 1451822332000,
+  "duration": 10800000,
+  "id": "227799344",
+  "name": "May Meetup",
+  "status": "past",
+  "time": 1462901400000,
+  "updated": 1462917282000,
+  "utc_offset": 3600000,
+  "waitlist_count": 0,
+  "yes_rsvp_count": 24,
+  "venue": {
+    "id": 24159763,
+    "name": "JH",
+    "lat": 52.95165252685547,
+    "lon": -1.1426550149917603,
+    "repinned": false,
+    "address_1": "34 Stoney Street, Nottingham, NG1 1NB",
+    "city": "Nottingham",
+    "country": "gb",
+    "localized_country_name": "United Kingdom"
+  },
+  "group": {
+    "created": 1451821401000,
+    "name": "NottsJS",
+    "id": 19268350,
+    "join_mode": "open",
+    "lat": 52.970001220703125,
+    "lon": -1.1799999475479126,
+    "urlname": "NottsJS",
+    "who": "Members"
+  },
+  "link": "https://www.meetup.com/NottsJS/events/227799344/",
+  "description": "<p><b> The Web as a Creative Medium<br/></b></p> <p>Have a fireside chat with Greg Tatum about how to use the web as a creative medium. Learn how to quickly iterate on ideas in a flexible space, and instantly share your work with the globe at large. Explore the underlying technologies like 2d canvas, WebGL, and SVG, plus the frameworks that make it easy to be productive.</p> <p><a href=\"https://twitter.com/TatumCreative\">Greg Tatum</a> </p> <p>(Greg will be voiping in from America, we will have a mic on hand for Q and A)</p> <p><b>React and Redux from the Trenches</b></p> <p><br/>Lessons learned from working with React and Redux for the past 6 months to create an asynchronous, isomorphic, server-side rendered SPA complete with RESTful API powered by Python/Django.</p> <p>Essentially: dos, don'ts, gotchas, best practice approaches, red herrings, false starts, and evolving practices.</p> <p>Technologies include webpack, Express, react-router, redux-simple-router, CSS Modules, react-cookie, Mocha/Chai, Babel, ES2015/2016, Immutable, cheerio, etc.</p> <p><a href=\"https://twitter.com/ajbkr\">Andrew J. Baker</a> and <a href=\"https://github.com/kristianroebuck\">Kristian Roebuck</a></p> <p><b>After</b></p> <p>Afterwards we go round the corner to the <a href=\"http://www.castlerockbrewery.co.uk/pubs/keans-head/\">Keans Head</a> for more JavaScript socialising.</p> <p><b>Contact</b></p> <p><br/>Ask questions or to talk to our friendly community at:</p> <p><a href=\"http://about.me/mik\"><a href=\"https://gitter.im/nottsjs/discuss\" class=\"linkified\">https://gitter.im/nottsjs/discuss</a><br/></a></p> <p>Find us on twitter:  <a href=\"http://twitter.com/nottsjs\">@nottsjs</a></p> ",
+  "how_to_find_us": "On Stoney street between the cemetery, ring the buzzer someone will let you in.",
+  "visibility": "public"
+}

@@ -1,0 +1,36 @@
+{
+  "created": 1491512288000,
+  "id": "239020788",
+  "name": "May 2017 - Chat Bots",
+  "status": "upcoming",
+  "time": 1494351000000,
+  "updated": 1491513932000,
+  "utc_offset": 3600000,
+  "waitlist_count": 0,
+  "yes_rsvp_count": 17,
+  "venue": {
+    "id": 24159763,
+    "name": "JH",
+    "lat": 52.95165252685547,
+    "lon": -1.1426550149917603,
+    "repinned": false,
+    "address_1": "34 Stoney Street, Nottingham, NG1 1NB",
+    "city": "Nottingham",
+    "country": "gb",
+    "localized_country_name": "United Kingdom"
+  },
+  "group": {
+    "created": 1451821401000,
+    "name": "NottsJS",
+    "id": 19268350,
+    "join_mode": "open",
+    "lat": 52.970001220703125,
+    "lon": -1.1799999475479126,
+    "urlname": "NottsJS",
+    "who": "Members"
+  },
+  "link": "https://www.meetup.com/NottsJS/events/239020788/",
+  "manual_attendance_count": 0,
+  "description": "<p>Join us with our guest speaker <b>Manthan Dave</b> with his talk: \"<b><i>Up and running with chat bots: A journey from being a noob to being awesome</i></b>\"</p> <p>The chat bot revolution is upon us and every developer wants to build one. This workshop will take them on an epic journey starting from basics and writing a simple chat bot, all the way to learning advanced concepts.</p> <p>Ever wondered what goes behind a good chat bot? Do you want to build one? Well this workshop is for you!</p> <p>Complexity can be diffused as soon as you peek behind the curtain. A chat bot, like a website might look complex from the outside, but the reality is different.</p> <p>This workshop will be divided into three sections. The first section will cover the basic anatomy of a chat bot. Next, we'll work together to build a chat bot. We'll start simple with a chat bot that'll tell us knock knock and chuck norris jokes. Towards the end of the workshop, we'll go over some advanced concepts that can help us scale our chat bot to have more features.</p> <p>So come! Join us on an awesome journey to talkify our bots!</p> ",
+  "visibility": "public"
+}

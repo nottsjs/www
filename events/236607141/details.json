@@ -1,0 +1,35 @@
+{
+  "created": 1483369573000,
+  "id": "236607141",
+  "name": "February 2017 Meetup - We ♥ JS",
+  "status": "past",
+  "time": 1487097000000,
+  "updated": 1487115097000,
+  "utc_offset": 0,
+  "waitlist_count": 0,
+  "yes_rsvp_count": 7,
+  "venue": {
+    "id": 24159763,
+    "name": "JH",
+    "lat": 52.95165252685547,
+    "lon": -1.1426550149917603,
+    "repinned": false,
+    "address_1": "34 Stoney Street, Nottingham, NG1 1NB",
+    "city": "Nottingham",
+    "country": "gb",
+    "localized_country_name": "United Kingdom"
+  },
+  "group": {
+    "created": 1451821401000,
+    "name": "NottsJS",
+    "id": 19268350,
+    "join_mode": "open",
+    "lat": 52.970001220703125,
+    "lon": -1.1799999475479126,
+    "urlname": "NottsJS",
+    "who": "Members"
+  },
+  "link": "https://www.meetup.com/NottsJS/events/236607141/",
+  "description": "<p>It's the time of year to love what you do. To give it some extra time, care and attention, keeping it happily ticking over for another year.</p> <p>The difference is, we don't have to buy it a romantic meal or get an awkward pampering at a health spa. We don't have to throw rose petals over the desk and lie in wait clutching a thorny flower between our teeth. And we definitely don't have to waste trees by buying it a card with a heart on the front.</p> <p>What we love is JavaScript. Whether it be in the browser or on the server, frontend or backend, React or Inferno - whatever takes your fancy, we're here to appreciate it with you!</p> <p>In this session we will discuss what we truly love about JavaScript in fast-paced quick-chair-swapping-one-on-one chats (\"speed teching\"), gathering our thoughts and opinions together to create our very own list of what we love about JavaScript. This list will help us get to know each other better by what, how and why we do what we do.</p> <p>We'll save this list until the end of the year for the next JS Cool Wall event, and hope to see how our love changes over the following 10 months.</p> <p>So please join us in a loving and cherishing NottsJS!</p> ",
+  "visibility": "public"
+}

@@ -1,0 +1,36 @@
+{
+  "created": 1473268841000,
+  "duration": 9000000,
+  "id": "233944192",
+  "name": "November meetup",
+  "status": "past",
+  "time": 1478629800000,
+  "updated": 1478773993000,
+  "utc_offset": 0,
+  "waitlist_count": 0,
+  "yes_rsvp_count": 24,
+  "venue": {
+    "id": 24159763,
+    "name": "JH",
+    "lat": 52.95165252685547,
+    "lon": -1.1426550149917603,
+    "repinned": false,
+    "address_1": "34 Stoney Street, Nottingham, NG1 1NB",
+    "city": "Nottingham",
+    "country": "gb",
+    "localized_country_name": "United Kingdom"
+  },
+  "group": {
+    "created": 1451821401000,
+    "name": "NottsJS",
+    "id": 19268350,
+    "join_mode": "open",
+    "lat": 52.970001220703125,
+    "lon": -1.1799999475479126,
+    "urlname": "NottsJS",
+    "who": "Members"
+  },
+  "link": "https://www.meetup.com/NottsJS/events/233944192/",
+  "description": "<p><b>NottsJS do the TopGear \"Cool Wall\" for Web Technologies + Workshops</b></p> <p>With something that is approaching attention deficit disorder there's new JavaScript frameworks emerging weekly. Even the godfather of modern JS development, jQuery, has been knocked from it's perch and is considered passé.</p> <p>So what do we do now? How do we leverage the good tech, while avoiding the cargo cults?</p> <p>This month we're going for something completely new. Enter The Cool Wall. A segment that will prove so popular that Jeremy Clarkson will invent Time Travel to steal it from us and make into a popular segment on Top Gear.</p> <p><img src=\"https://nottsjs.org/img/cool-wall.jpg\" /></p> <p>This month's session will be a group discussion piece where we talk about the state of modern JavaScript development and our place in this world.</p> ",
+  "visibility": "public"
+}

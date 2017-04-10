@@ -1,0 +1,44 @@
+{
+  "created": 1473268899000,
+  "duration": 12600000,
+  "fee": {
+    "accepts": "cash",
+    "amount": 5,
+    "currency": "GBP",
+    "description": "per person",
+    "label": "price",
+    "required": false
+  },
+  "id": "233944267",
+  "name": "#NottTechParty - The Nottingham Tech Community Christmas Party",
+  "status": "past",
+  "time": 1481223600000,
+  "updated": 1481237296000,
+  "utc_offset": 0,
+  "waitlist_count": 0,
+  "yes_rsvp_count": 14,
+  "venue": {
+    "id": 24207975,
+    "name": "National Video Game Arcade",
+    "lat": 52.95354461669922,
+    "lon": -1.1445180177688599,
+    "repinned": false,
+    "address_1": "24 Carlton Street",
+    "city": "Nottingham",
+    "country": "gb",
+    "localized_country_name": "United Kingdom"
+  },
+  "group": {
+    "created": 1451821401000,
+    "name": "NottsJS",
+    "id": 19268350,
+    "join_mode": "open",
+    "lat": 52.970001220703125,
+    "lon": -1.1799999475479126,
+    "urlname": "NottsJS",
+    "who": "Members"
+  },
+  "link": "https://www.meetup.com/NottsJS/events/233944267/",
+  "description": "<p><img src=\"https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/b/d/8/600_455919896.jpeg\" /></p> <p>Nottingham's biggest and brightest tech events are coming together to celebrate the stellar growth of the community by throwing another awesome Christmas party.</p> <p>We're taking over the National Videogame Arcade, with full access to all the games and exhibits, an organised games tournament with pizza and drinks.</p> <p>Tickets are just £5! The price of your ticket includes full access to the National Videogame Arcade, the games tournament and pizza.</p> <p>First tickets released this Friday 11th November at midday - <a href=\"https://www.eventbrite.co.uk/e/notttechparty-the-nottingham-tech-community-christmas-party-tickets-29264117764\">Buy your ticket now!</a></p> <p>&lt;a href=\"http://www.technottingham.com/events/2016/12/8/notttechparty-the-nottingham-tech-community-christmas-party-2016\"&gt;&lt;/a&gt;</p> <p><i>Joining on Meetup does not count as buying a ticket!</i></p> ",
+  "visibility": "public"
+}

@@ -1,0 +1,35 @@
+{
+  "created": 1466695372000,
+  "id": "232108994",
+  "name": "September meetup",
+  "status": "past",
+  "time": 1473787800000,
+  "updated": 1473836525000,
+  "utc_offset": 3600000,
+  "waitlist_count": 0,
+  "yes_rsvp_count": 17,
+  "venue": {
+    "id": 24159763,
+    "name": "JH",
+    "lat": 52.95165252685547,
+    "lon": -1.1426550149917603,
+    "repinned": false,
+    "address_1": "34 Stoney Street, Nottingham, NG1 1NB",
+    "city": "Nottingham",
+    "country": "gb",
+    "localized_country_name": "United Kingdom"
+  },
+  "group": {
+    "created": 1451821401000,
+    "name": "NottsJS",
+    "id": 19268350,
+    "join_mode": "open",
+    "lat": 52.970001220703125,
+    "lon": -1.1799999475479126,
+    "urlname": "NottsJS",
+    "who": "Members"
+  },
+  "link": "https://www.meetup.com/NottsJS/events/232108994/",
+  "description": "<p><b>Talks</b></p> <p><a href=\"https://github.com/nottsjs/speakers/issues/23\">Realtime Apps with Node.js and RethinkDB</a><br/><i>by <a href=\"https://twitter.com/mattcollins84\">Matt Collins</a></i></p> <p>In today's online world, user experience is key. Users expect slick interfaces that are intuitive, informative and engaging. More and more, building apps that update the user in Realtime are becoming an essential part of this experience - and we can see this every day with things like Google Docs, Facebook Notifications, Slack and BBC Live Text.</p> <p>RethinkDB is a fully featured, opensource, NoSQL database designed to make developing for the Realtime Web easy. We'll talk about changefeeds, clustering and how combining with Node.js can help you avoid some of the pitfalls of building rich, engaging, Realtime Apps to scale and across multiple platforms.</p> <p>By the end of this talk you'll be ready to go back and create your first Realtime App with RethinkDB and Node.js.</p> <p><b>After</b></p> <p>Afterwards we'll head around the corner to <a href=\"http://www.castlerockbrewery.co.uk/pubs/keans-head/\">Keans Head</a> for more JavaScript socialising.</p> <p><b>Contact</b></p> <p>Ask questions or to talk to our friendly community on <a href=\"https://gitter.im/nottsjs/discuss\">Gitter</a>!</p> <p>Find us on twitter: <a href=\"http://twitter.com/nottsjs\">@nottsjs</a></p> ",
+  "visibility": "public"
+}

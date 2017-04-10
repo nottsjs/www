@@ -1,0 +1,36 @@
+{
+  "created": 1451822233000,
+  "duration": 10800000,
+  "id": "227799331",
+  "name": "February Meetup",
+  "status": "past",
+  "time": 1455129000000,
+  "updated": 1455142080000,
+  "utc_offset": 0,
+  "waitlist_count": 0,
+  "yes_rsvp_count": 1,
+  "venue": {
+    "id": 24159763,
+    "name": "JH",
+    "lat": 52.95165252685547,
+    "lon": -1.1426550149917603,
+    "repinned": false,
+    "address_1": "34 Stoney Street, Nottingham, NG1 1NB",
+    "city": "Nottingham",
+    "country": "gb",
+    "localized_country_name": "United Kingdom"
+  },
+  "group": {
+    "created": 1451821401000,
+    "name": "NottsJS",
+    "id": 19268350,
+    "join_mode": "open",
+    "lat": 52.970001220703125,
+    "lon": -1.1799999475479126,
+    "urlname": "NottsJS",
+    "who": "Members"
+  },
+  "link": "https://www.meetup.com/NottsJS/events/227799331/",
+  "description": "<p>This month we have two speakers talking at NottsJS.</p> <p><br/><b>David Wood - Introduction to TypeScript</b></p> <p>Discover what TypeScript is, how it's useful, and how to get started using the language in new and existing projects.</p> <p><br/><b>Chris Kemp - Keep your codebase clean</b></p> <p>Understanding source control is a requirement in modern software development, so let's get back to basics. Talk through the history and fundamentals, and then move on to how keeping a clean git history helps you out as a business, with practical examples from my own personal experience.</p> ",
+  "visibility": "public"
+}

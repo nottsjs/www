@@ -26,6 +26,15 @@ address {
   font-style: normal;
 }
 
+/* this is to look like .light without needing CSS for profiles dependent on materialize */
+.profile p {
+  font-weight: 300;
+}
+
+.talk img {
+  max-width: 100%;
+}
+
 .scholarship-program-btn {
   line-height: 2em;
   height: auto;

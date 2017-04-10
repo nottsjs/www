@@ -1,0 +1,35 @@
+{
+  "created": 1483369593000,
+  "id": "236607150",
+  "name": "March 2017 - Hands On with React",
+  "status": "past",
+  "time": 1489516200000,
+  "updated": 1489580696000,
+  "utc_offset": 0,
+  "waitlist_count": 0,
+  "yes_rsvp_count": 40,
+  "venue": {
+    "id": 24159763,
+    "name": "JH",
+    "lat": 52.95165252685547,
+    "lon": -1.1426550149917603,
+    "repinned": false,
+    "address_1": "34 Stoney Street, Nottingham, NG1 1NB",
+    "city": "Nottingham",
+    "country": "gb",
+    "localized_country_name": "United Kingdom"
+  },
+  "group": {
+    "created": 1451821401000,
+    "name": "NottsJS",
+    "id": 19268350,
+    "join_mode": "open",
+    "lat": 52.970001220703125,
+    "lon": -1.1799999475479126,
+    "urlname": "NottsJS",
+    "who": "Members"
+  },
+  "link": "https://www.meetup.com/NottsJS/events/236607150/",
+  "description": "<p>This will be your opportunity to create a real-life website using React.</p> <p>We don't always get the opportunity to use the latest new technologies in our day-to-day jobs, and when we do get chance to pick up something we do so in our spare time and don't have a real problem that we're trying to solve.</p> <p>This session will address that, by introducing the audience to React and then having members of the group contribute to the new NottsJS website.</p> <p>What will I get out of this?</p> <p>• Use React to:</p> <p>• Build a Website.</p> <p>• Use web components.</p> <p><br/>• Use 3rd party styling packages.</p> <p><br/>• Use webpack to hot load changes.</p> <p><br/>• Load data using Async processing of data.</p> <p><br/>• Contributing to an Open Source project.</p> ",
+  "visibility": "public"
+}

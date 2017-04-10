@@ -1,0 +1,25 @@
+{
+  "name": "nottsjs.github.io",
+  "version": "1.0.0",
+  "description": "This repo contains the NottsJS Website and assets.",
+  "main": "parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sync": "node ./node_modules/meetup-api-crawler/sync.js",
+    "build": "node ./node_modules/meetup-api-crawler/build.js && node parser.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanKingston/nottsjs.github.io.git"
+  },
+  "author": "Jonathan Kingston",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonathanKingston/nottsjs.github.io/issues"
+  },
+  "homepage": "https://github.com/jonathanKingston/nottsjs.github.io#readme",
+  "dependencies": {
+    "handlebars": "^4.0.6",
+    "meetup-api-crawler": "git+https://github.com/jonathanKingston/meetup-api-crawler.git"
+  }
+}
