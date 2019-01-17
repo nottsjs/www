@@ -20,7 +20,7 @@
             </div>
           </div>
 
-          {{ range after 1 .Site.Pages }}
+          {{ range after 1 (where .Site.Pages "Params.type" "event") }}
           {{ partial "event.html" . }}
           {{ end }}
         </div>
