@@ -2,8 +2,8 @@
 title: Lightning Talks!
 type: event
 date: 2018-05-08
-starttime: 18:00
-endtime: 20:00
+starttime: 18:45
+endtime: 20:30
 meetup_url: https://www.meetup.com/NottsJS/events/sfwwlpyxhblb/
 ---
 

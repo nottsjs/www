@@ -2,8 +2,8 @@
 title: Umbraco CMS + Lean Coffee + Cool Wall
 type: event
 date: 2018-02-13
-starttime: 18:00
-endtime: 20:00
+starttime: 18:45
+endtime: 21:00
 presenter: Paul Seal
 presenter_img: https://avatars0.githubusercontent.com/u/9142936?s=206&amp;v=4
 presenter_url: https://codeshare.co.uk

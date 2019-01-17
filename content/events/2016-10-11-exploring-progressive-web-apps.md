@@ -2,8 +2,8 @@
 title: Exploring Progressive Web Apps
 type: event
 date: 2016-10-11
-starttime: 18:00
-endtime: 20:00
+starttime: 18:30
+endtime: 21:00
 presenter: Dan Ian Shea
 presenter_img: https://avatars2.githubusercontent.com/u/12891931?v=3
 presenter_bio: |

@@ -2,8 +2,8 @@
 title: Hands on with React.Native
 type: event
 date: 2017-08-08
-starttime: 18:00
-endtime: 20:00
+starttime: 18:30
+endtime: 21:30
 presenter: Chris Kemp
 presenter_img: https://avatars3.githubusercontent.com/u/149791?v=3&u=31f0d9e778f98852a3d3d6407c753d029235a640&s=400
 presenter_bio: |

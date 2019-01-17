@@ -2,8 +2,8 @@
 title: Machine Learning for Muggles
 type: event
 date: 2017-07-13
-starttime: 18:00
-endtime: 20:00
+starttime: 18:30
+endtime: 21:30
 presenter: Martin Kearn
 presenter_img: https://avatars3.githubusercontent.com/u/2410726
 presenter_bio: |

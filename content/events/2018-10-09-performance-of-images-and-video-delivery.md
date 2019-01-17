@@ -2,8 +2,8 @@
 title: Performance of Images and Video Delivery
 type: event
 date: 2018-10-09
-starttime: 18:00
-endtime: 20:00
+starttime: 18:45
+endtime: 21:00
 presenter: Doug Sillars
 presenter_url: https://dougsillars.com/
 presenter_img: https://avatars3.githubusercontent.com/u/1514288?v=4

@@ -2,8 +2,8 @@
 title: Being Asynchronous
 type: event
 date: 2017-10-10
-starttime: 18:00
-endtime: 20:00
+starttime: 18:30
+endtime: 21:00
 presenter: David Wood
 presenter_url: https://codesleuth.co.uk
 presenter_img: https://avatars1.githubusercontent.com/u/5011956?v=4&amp;u=ee852ded4742bdd76f7605018d443d28a426c985

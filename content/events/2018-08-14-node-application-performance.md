@@ -2,8 +2,8 @@
 title: Node Application Performance
 type: event
 date: 2018-08-14
-starttime: 18:00
-endtime: 20:00
+starttime: 18:45
+endtime: 21:00
 presenter: Josh Ghent
 presenter_url: https://joshghent.com/
 presenter_img: https://avatars2.githubusercontent.com/u/2934976?v=4

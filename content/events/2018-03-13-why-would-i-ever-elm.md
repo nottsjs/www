@@ -2,8 +2,8 @@
 title: Why would I ever Elm
 type: event
 date: 2018-03-13
-starttime: 18:00
-endtime: 20:00
+starttime: 18:30
+endtime: 21:00
 presenter: Joshua Hawxwell
 presenter_img: https://avatars3.githubusercontent.com/u/146390?s=400&amp;v=4
 presenter_url: https://hawx.me/

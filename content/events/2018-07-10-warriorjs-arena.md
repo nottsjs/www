@@ -2,7 +2,7 @@
 title: WarriorJS Arena!
 type: event
 date: 2018-07-10
-starttime: 18:00
+starttime: 18:30
 endtime: 20:00
 presenter: David Wood
 presenter_url: https://codesleuth.co.uk
@@ -17,6 +17,7 @@ presenter_bio: |
 github_url: https://github.com/Codesleuth
 twitter_url: https://twitter.com/codesleuth
 meetup_url: https://www.meetup.com/NottsJS/events/251694525/
+canceled: true
 ---
 
 _Note that this event was cancelled due to attendance concerns. It will be rescheduled!_

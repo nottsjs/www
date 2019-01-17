@@ -2,7 +2,7 @@
 title: Saving the World with JSON Schema!
 type: event
 date: 2018-06-12
-starttime: 18:00
+starttime: 18:30
 endtime: 20:00
 presenter: Rob Redpath
 presenter_img: https://avatars0.githubusercontent.com/u/641009?s=400&amp;v=4

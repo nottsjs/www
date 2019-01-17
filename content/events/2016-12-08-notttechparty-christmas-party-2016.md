@@ -2,8 +2,8 @@
 title: '#NottTechParty - Christmas Party 2016'
 type: event
 date: 2016-12-08
-starttime: 18:00
-endtime: 20:00
+starttime: 19:00
+endtime: 22:30
 ---
 
 <img class="responsive-img"

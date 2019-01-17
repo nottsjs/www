@@ -2,8 +2,8 @@
 title: Realtime Apps with Node.js and RethinkDB
 type: event
 date: 2016-09-13
-starttime: 18:00
-endtime: 20:00
+starttime: 18:30
+endtime: 21:30
 presenter: Matt Collins
 presenter_img: https://avatars3.githubusercontent.com/u/795287?v=3
 presenter_bio: |

@@ -2,8 +2,8 @@
 title: Javascript Cool Wall
 type: event
 date: 2016-11-08
-starttime: 18:00
-endtime: 20:00
+starttime: 18:30
+endtime: 21:00
 ---
 
 > "You're using <insert_old_framework>?  That's so 2015.  You need to use <insert_new_framework>!"<br />- _Javascript Developers_

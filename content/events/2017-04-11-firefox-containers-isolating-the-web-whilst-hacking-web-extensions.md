@@ -2,8 +2,8 @@
 title: Firefox Containers, isolating the web whilst hacking web extensions
 type: event
 date: 2017-04-11
-starttime: 18:00
-endtime: 20:00
+starttime: 18:30
+endtime: 21:30
 presenter: Jonathan Kingston
 presenter_img: https://avatars2.githubusercontent.com/u/338988?v&#x3D;3&amp;s&#x3D;460
 presenter_bio: |

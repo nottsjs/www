@@ -2,7 +2,7 @@
 title: Building Bots with the Web Speech API
 type: event
 date: 2018-09-11
-starttime: 18:00
+starttime: 18:30
 endtime: 20:00
 presenter: Alex Lakatos
 presenter_url: http://alexlakatos.com/

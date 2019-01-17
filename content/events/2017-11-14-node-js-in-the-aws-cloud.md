@@ -2,8 +2,8 @@
 title: Node JS in the AWS Cloud
 type: event
 date: 2017-11-14
-starttime: 18:00
-endtime: 20:00
+starttime: 18:30
+endtime: 21:00
 presenter: Chris Kemp
 presenter_img: https://avatars3.githubusercontent.com/u/149791?v=3&amp;u=31f0d9e778f98852a3d3d6407c753d029235a640&amp;s=400
 presenter_bio: |
