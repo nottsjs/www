@@ -4,3 +4,4 @@ title = "NottsJS"
 buildFuture = true
 publishDir = "docs"
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"]
+relativeURLs = true
