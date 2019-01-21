@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+
+set -o errexit
+
+if [ "$#" -ne 1 ]; then
+  cat <<EOF
+Usage: build-site TARGET_BRANCH
+Builds the site to the branch TARGET_BRANCH, which should already exist!
+EOF
+  exit 1
+fi
+
+TARGET_BRANCH="$1"
+
+git branch -D "$TARGET_BRANCH"
+git checkout -b "$TARGET_BRANCH"
+hugo
+find . -maxdepth 1 ! -name docs -delete
+mv docs/* .
+rmdir docs
+git add -A
+git commit -m "Built site"
