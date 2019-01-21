@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+
+set -o errexit
+
+if [ "$#" -ne 1 ]; then
+  cat <<EOF
+Usage: replace-site TARGET_BRANCH
+
+Replaces the branch specified with the contents of '/docs'.
+EOF
+  exit 1
+fi
+
+TARGET_BRANCH="$1"
+ORIGINAL_BRANCH=$(git rev-parse --abbrev-ref HEAD)
+
+git checkout "$TARGET_BRANCH"
+find . -not -path '*/\.*' -delete
+git checkout "$ORIGINAL_BRANCH" -- docs
+mv docs/* .
+rmdir docs
